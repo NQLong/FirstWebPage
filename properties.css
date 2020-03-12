@@ -1,0 +1,25 @@
+
+.col-3 {
+    border: solid 2px;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 6%;
+    padding: 10px 10px 10px 10px;
+}
+
+.col-left {
+    margin-left:10%;
+}
+
+.col-right {
+    margin-left: 20%
+}
+
+body {
+   height:100%;
+   background: linear-gradient(
+        20deg,
+        #ffffff,
+        #a1ada4
+    );
+}
