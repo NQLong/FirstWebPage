@@ -8,10 +8,7 @@ a:hover {
 }
 body {
     height:100%;
-    background: linear-gradient(
-         #ffffff,
-         #a1ada4
-     );
+    background: #96befa;
      background-repeat: no-repeat;
      background-attachment: fixed;
     
@@ -23,6 +20,7 @@ body {
     margin:auto;
     margin-top: 6%;
     padding: 10px 10px 10px 10px;
+    background:#d4770d;
     
 }
 
@@ -38,6 +36,6 @@ body {
 .col-3:hover {
     box-shadow: 0 15px 20px rgba(0,0,0,0.19), 0 7px 8px rgba(0,0,0,0.23);
     background-color: #ffffff;
-
+    transform:scale(1.1);
 } 
 
