@@ -1,3 +1,16 @@
+/* .mypage {
+    margin-bottom: 4%;
+} */
+body {
+    height:100%;
+    background: linear-gradient(
+         #ffffff,
+         #a1ada4
+     );
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+    
+}
 
 .col-3 {
     border: solid 2px;
@@ -5,21 +18,21 @@
     margin:auto;
     margin-top: 6%;
     padding: 10px 10px 10px 10px;
+    
 }
 
 .col-left {
     margin-left:10%;
+    
 }
 
 .col-right {
     margin-left: 20%
 }
 
-body {
-   height:100%;
-   background: linear-gradient(
-        20deg,
-        #ffffff,
-        #a1ada4
-    );
-}
+.col-3:hover {
+    box-shadow: 0 15px 20px rgba(0,0,0,0.19), 0 7px 8px rgba(0,0,0,0.23);
+    background-color: #ffffff;
+
+} 
+
