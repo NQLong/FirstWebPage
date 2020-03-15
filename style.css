@@ -178,7 +178,7 @@ nav {
     
     .intro {
         text-align: center;
-        margin-top:
+        margin-top:1vh;
     }
     .intro-text h1 {
         font-size:20px;
@@ -191,9 +191,10 @@ nav {
         padding: 10px 0px 0px 0px;
     }
     .me-img, .me2-img {
-        height:40vh;
+        height:35vh;
         margin:auto;
     }
+
     .logo-img{
         width:40px;
         height:40px;
