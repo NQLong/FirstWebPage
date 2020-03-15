@@ -129,8 +129,10 @@ nav {
     width:150px;
     border:none;
     background: rgba(96, 117, 235, 0.863);
+    cursor: pointer;
 
 }
+
 .button-1 {
     height:35px;
     font-size: 16px;
@@ -138,6 +140,18 @@ nav {
     width:150px;
     border:3px solid rgba(96, 117, 235, 0.863);
     background: transparent;
+    cursor: pointer;
+    margin-right:10px ;
+}
+
+.button-1:hover {
+    transform: scale(1.1);
+    
+}
+
+.button-2:hover {
+    transform: scale(1.1);
+    
 }
 
 .big_sun {
