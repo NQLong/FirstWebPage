@@ -89,14 +89,14 @@ nav {
 .me-img {
     height: 60vh;
     filter: drop-shadow(0px 5px 3px);
-    animation:drop 1.5s ease;
+    animation:drop 1.5s 1sease;
     animation-fill-mode: forwards;
 }
 .me2-img {
     height:60vh;
     position:absolute;
     filter: drop-shadow(0px 5px 3px);
-    animation: appear 0.001s forwards 1.49s ease;
+    animation: appear 0.001s forwards 2.49s ease;
     opacity:0;
 }
 
